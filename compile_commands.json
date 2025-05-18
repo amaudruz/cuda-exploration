@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/louis.amaudruz/Documents/louis/cuda-exploration",
+    "command": "/opt/homebrew/bin/g++-14 -fopenmp -O3 matmul_test.cpp -o matmul_test",
+    "file": "matmul_test.cpp"
+  }
+]

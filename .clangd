@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -fopenmp
+    - --gcc-toolchain=/opt/homebrew/opt/gcc
+    - -I/opt/homebrew/opt/gcc/include
+    - -L/opt/homebrew/opt/gcc/lib/gcc/current
+    - -DFROM_CLANGD_FILE
